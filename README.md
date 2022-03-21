@@ -1,4 +1,8 @@
-### Hi there 👋
+![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
+![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
+![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)
+
+
 
 <!--
 **rc2pc2/rc2pc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
