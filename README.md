@@ -4,7 +4,6 @@
 ![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg) 
 ![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg) 
-![forthebadge]() 
 
 <!--
 ![forthebadge]() 
